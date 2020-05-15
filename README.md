@@ -1,6 +1,8 @@
 ## Gestió Sanitària
 
 
+[Exemple de Classe](js/classes/Persona.js)
+
 ![vista Presentacio](img/captura_0001.png)
 
 
